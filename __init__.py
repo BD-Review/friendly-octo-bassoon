@@ -11,7 +11,19 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-
+bl_info = {
+"name": "Friendly Octo Bassoon",
+"author": "BD",
+"description": "",
+"blender": (2, 80, 0),
+"version": (0, 0, 0),
+"location": "",
+"warning": "",
+"doc_url": "https://github.com/BD-Review/friendly-octo-bassoon/",
+"tracker_url": "https://github.com/BD-Review/friendly-octo-bassoon/issues",
+"endpoint_url": "https://raw.githubusercontent.com/BD-Review/friendly-octo-bassoon/main/endpoint.json",
+"category": "Generic"
+}
 
 def register():
     pass
